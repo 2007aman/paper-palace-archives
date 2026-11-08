@@ -48,3 +48,4 @@ src/
 ├── hooks/          # Custom React hooks
 ├── lib/            # Utility functions and configurations
 └── App.tsx         # Main application entry point
+# front-end-faceoff-project
